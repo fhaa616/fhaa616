@@ -1,63 +1,67 @@
-<!-- Header Animasi Teks & Meme -->
+<!-- Header Animasi Teks & Meme Kucing -->
 <div align="center">
   <!-- Animasi Teks Mengetik -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=System+Booting...;Player+fhaa616+Has+Joined+The+Server;Welcome+To+My+Inventory!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=System+Booting...;Pemula+Baru+Menetas;Selamat+Datang+Di+Profile+Ku!" alt="Typing SVG" />
   <br/>
   
-  <!-- Meme Kucing Coding (Biar ga terlalu kaku) -->
+  <!-- Meme Kucing Mengetik -->
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" alt="Meme Cat Typing" />
   
   <p>
-    <b>Level 1 Student | Calon ambisius</b><br/>
-    Sedang *grinding* EXP di dunia nyata. 
+    <b>Level 1 Student | Calon Anak Ambis</b><br/>
+    Sedang nyari EXP di dunia nyata. 
   </p>
   <hr>
 </div>
 
+### 🆔 Player Card (Biodata)
+
+> **Identity Confirmed:** Akses data karakter diberikan... 🔓
+
+- 👤 **Name:** AWANG ALFHA FAIRUZ AMIEN
+- 🏛️ **Kampus:** INSTITUT TEKNOLOGI KALIMANTAN (ITK)
+- 🎓 **Prodi:** INFORMATIKA
+- 📍 **Status:** MAHASISWA BARU MENETAS
+
+<br/>
+
 ### 📜 Quest Log (Misi Utama)
 
-> **Current Status:** *Newbie* yang mencoba bertahan hidup dari *syntax error*... 🚀
+> **Current Status:** *pemula* yang mencoba bertahan hidup di kampus... 🚀
 
-Selamat datang di *Base Camp* saya! Profil ini ibarat *save file* perjalanan saya dari level pemula. Di sini saya sering menyimpan dan mengirimkan foto/gambar hasil salinan (*screenshot*) kuis *coding* saya untuk dievaluasi. 
+Selamat datang di *Base Camp* saya! Profil ini ibarat *save file* perjalanan saya sebagai mahasiswa. Jangan berharap banyak repositori di sini, karena jujur saja saya lebih suka rebahan daripada rajin *commit* tugas *coding* setiap hari. 
 
-- ⚔️ **Misi Saat Ini:** Menaklukkan algoritma dasar dan *grinding* tugas-tugas kampus.
-- 🧪 **Skill yang Sedang Ditingkatkan:** Memahami logika pemrograman tanpa harus nanya AI setiap 5 menit (bercanda ✌️).
-- 🏆 **Achievement Locked:** Menjadi *Developer* sungguhan.
+- ⚔️ **Misi Saat Ini:** Bertahan hidup, lolos dari *syntax error*, dan lulus tepat waktu.
+- 🧪 **Skill yang Sedang Ditingkatkan:** Ilmu bertahan dari rasa malas dan meminimalisir kepanikan saat *deadline* tugas.
+- 🏆 **Achievement Locked:** Menjadi *Developer* sungguhan tanpa harus keseringan begadang.
 
 <br/>
 
 ### 🎒 Inventory (Senjata & Perlengkapan)
 
-*Item yang saat ini ada di dalam tas dan siap digunakan:*
+*Item yang diajarkan di kampus (walaupun kadang lupa cara pakainya):*
 
 <p align="left">
   <!-- Badge Warna Neon Biru & Ungu -->
-  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=00e5ff&borderColor=00e5ff" alt="C++" />
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=b100e8&borderColor=b100e8" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00e5ff&borderColor=00e5ff" alt="HTML" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00e5ff&borderColor=00e5ff" alt="Git" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00e5ff&borderColor=bb100e8" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css&logoColor=b100e8&borderColor=b100e8" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00e5ff&borderColor=b100e8" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=b100e8&borderColor=b100e8" alt="PHP" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=b100e8&borderColor=b100e8" alt="Git" />
 </p>
 
 <br/>
 
-### 📊 Player Stats (Statistik Akun)
+### ☕ AFK Status (Status Rebahan)
 
-*Data ditarik secara real-time dari server pusat GitHub...*
-
-<div align="center">
-  <!-- Link ini sudah saya perbaiki menggunakan username fhaa616, dijamin gambarnya muncul! -->
-  <img src="https://github-readme-stats.vercel.app/api?username=fhaa616&show_icons=true&hide_border=true&bg_color=000000&title_color=00e5ff&text_color=8b949e&icon_color=b100e8" height="192px" alt="Player Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhaa616&layout=compact&hide_border=true&bg_color=000000&title_color=b100e8&text_color=8b949e" height="192px" alt="Top Languages" />
-</div>
-
-<br/>
-
-### 🎮 Mini-Game / Gimmick Area
-
-*Ular GitHub-nya sedang tidur (butuh setup lanjutan nanti), jadi ini perwakilan isi kepala saya pas lagi dapet tugas kuis coding:*
+*Siklus hidup saya sebagai mahasiswa ITK sehari-hari:*
 
 <div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" alt="Meme Loading" />
+  <!-- Meme Kucing Malas Ketiduran -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9lb2VlMXNrOXR5eXBneHEwMWN1eDNxbmZ6OWViczU4d2hxaHhpayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gjsBu8ZUniOODwgPP5/giphy.gif" width="250" alt="Meme Kucing Malas" />
+  <br/><br/>
+  <p><code>Niat Ngoding ➔ Buka Laptop ➔ Buka VsCode ➔ Error ➔ Tidur</code></p>
 </div>
 
 <br/>
@@ -72,5 +76,8 @@ Selamat datang di *Base Camp* saya! Profil ini ibarat *save file* perjalanan say
   </a>
   <a href="https://discord.com" target="_blank">
     <img src="https://img.shields.io/badge/Discord-alfhaaaaaa-000000?style=for-the-badge&logo=discord&logoColor=b100e8" alt="Discord" />
+  </a>
+  <a href="https://steamcommunity.com/id/Keyshaaaa/" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-Keyshaaaa-000000?style=for-the-badge&logo=steam&logoColor=00e5ff" alt="Steam" />
   </a>
 </div>
