@@ -17,7 +17,7 @@
 
 > **Misi Utama:** Bertahan hidup di kampus, mengalahkan monster bernama *Syntax Error*, dan berevolusi dari *Novice* menjadi *Master Developer*! ⚔️
 
-*   📍 **Lokasi Saat Ini:** Zona Tutorial (Universitas).
+*   📍 **Lokasi Saat Ini:** Zona Tutorial (Institut Teknologi Kalimantan).
 *   🎯 **Target Aktif:** Memahami algoritma dasar dan mengumpulkan EXP sebanyak-banyaknya dari tugas kuliah.
 *   💼 **Side Quest:** Sering mendokumentasikan dan mengirimkan *screenshot* kuis coding sebagai bahan evaluasi dan arsip perjalanan.
 *   🛑 **Status Buff:** Penuh semangat, HP masih penuh, siap tempur.
