@@ -1,10 +1,7 @@
-<!-- Header Animasi Teks & Meme Kucing -->
 <div align="center">
-  <!-- Animasi Teks Mengetik -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=System+Booting...;Pemula+Baru+Menetas;Selamat+Datang+Di+Profile+Ku!" alt="Typing SVG" />
   <br/>
   
-  <!-- Meme Kucing Mengetik -->
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" alt="Meme Cat Typing" />
   
   <p>
@@ -42,7 +39,6 @@ Selamat datang di *Base Camp* saya! Profil ini ibarat *save file* perjalanan say
 *Item yang diajarkan di kampus (walaupun kadang lupa cara pakainya):*
 
 <p align="left">
-  <!-- Badge Warna Neon Biru & Ungu -->
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=b100e8&borderColor=b100e8" alt="Python" />
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00e5ff&borderColor=bb100e8" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css&logoColor=b100e8&borderColor=b100e8" alt="CSS" />
@@ -59,7 +55,7 @@ Selamat datang di *Base Camp* saya! Profil ini ibarat *save file* perjalanan say
 
 <div align="center">
   <!-- Meme Kucing Malas Ketiduran -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9lb2VlMXNrOXR5eXBneHEwMWN1eDNxbmZ6OWViczU4d2hxaHhpayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gjsBu8ZUniOODwgPP5/giphy.gif" width="250" alt="Meme Kucing Malas" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9lb2VlMXNrOXR5eXBneHEwMWN1eDNxbmZ6OWViczU4d2hxaHhpayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gjsBu8ZUniOODwgPP5/giphy.gif" width="150" alt="Meme Kucing Malas" />
   <br/><br/>
   <p><code>Niat Ngoding ➔ Buka Laptop ➔ Buka VsCode ➔ Error ➔ Tidur</code></p>
 </div>
