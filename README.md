@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-  # Halo, Saya Awang Alfha Fairuz Amien biasa dipanggil Fhaa <img src="https://media.giphy.com/media/hvRJj4Vvp3wLXYM6qN/giphy.gif" width="30px">
+  # Halo, Saya Awang Alfha Fairuz Amien <img src="https://media.giphy.com/media/hvRJj4Vvp3wLXYM6qN/giphy.gif" width="30px">
   
   ### `Mahasiswa | Orang pemula`
 
