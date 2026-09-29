@@ -18,10 +18,10 @@
 
 > **Identity Confirmed:** Akses data karakter diberikan... 🔓
 
-- 👤 **Name:** AWANG ALFHA FAIRUZ AMIEN
-- 🏛️ **Kampus:** INSTITUT TEKNOLOGI KALIMANTAN (ITK)
-- 🎓 **Prodi:** INFORMATIKA
-- 📍 **Status:** MAHASISWA BARU MENETAS
+- 👤 **Name :** AWANG ALFHA FAIRUZ AMIEN
+- 🏛️ **Kampus :** INSTITUT TEKNOLOGI KALIMANTAN (ITK)
+- 🎓 **Prodi :** INFORMATIKA
+- 📍 **Status :** MAHASISWA BARU MENETAS
 
 <br/>
 
