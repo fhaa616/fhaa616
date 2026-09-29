@@ -1,64 +1,68 @@
+<!-- Header Animasi Teks & Meme -->
 <div align="center">
+  <!-- Animasi Teks Mengetik -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=System+Booting...;Player+fhaa616+Has+Joined+The+Server;Welcome+To+My+Inventory!" alt="Typing SVG" />
+  <br/>
   
-  <h1>🎮 ＰＬＡＹＥＲ １ ＳＰＡＷＮＥＤ 🎮</h1>
+  <!-- Meme Kucing Coding (Biar ga terlalu kaku) -->
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" alt="Meme Cat Typing" />
   
-  ### [ fhaa616 ] • Class: Novice Developer • Lvl: 1
-  
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150px" alt="Pixel Character">
-
   <p>
-    <i>"Sistem online. Bersiap untuk farming EXP di dunia perkuliahan..."</i>
+    <b>Level 1 Student | Calon ambisius</b><br/>
+    Sedang *grinding* EXP di dunia nyata. 
   </p>
+  <hr>
 </div>
 
----
+### 📜 Quest Log (Misi Utama)
 
-### 📜 Main Quest Log
+> **Current Status:** *Newbie* yang mencoba bertahan hidup dari *syntax error*... 🚀
 
-> **Misi Utama:** Bertahan hidup di kampus, mengalahkan monster bernama *Syntax Error*, dan berevolusi dari *Novice* menjadi *Master Developer*! ⚔️
+Selamat datang di *Base Camp* saya! Profil ini ibarat *save file* perjalanan saya dari level pemula. Di sini saya sering menyimpan dan mengirimkan foto/gambar hasil salinan (*screenshot*) kuis *coding* saya untuk dievaluasi. 
 
-*   📍 **Lokasi Saat Ini:** Zona Tutorial (Institut Teknologi Kalimantan).
-*   🎯 **Target Aktif:** Memahami algoritma dasar dan mengumpulkan EXP sebanyak-banyaknya dari tugas kuliah.
-*   💼 **Side Quest:** Sering mendokumentasikan dan mengirimkan *screenshot* kuis coding sebagai bahan evaluasi dan arsip perjalanan.
-*   🛑 **Status Buff:** Penuh semangat, HP masih penuh, siap tempur.
+- ⚔️ **Misi Saat Ini:** Menaklukkan algoritma dasar dan *grinding* tugas-tugas kampus.
+- 🧪 **Skill yang Sedang Ditingkatkan:** Memahami logika pemrograman tanpa harus nanya AI setiap 5 menit (bercanda ✌️).
+- 🏆 **Achievement Locked:** Menjadi *Developer* sungguhan.
 
 <br/>
 
 ### 🎒 Inventory (Senjata & Perlengkapan)
 
-*Item yang saat ini ada di dalam tas dan sedang dipelajari:*
+*Item yang saat ini ada di dalam tas dan siap digunakan:*
 
 <p align="left">
-  <!-- Daftar Skill / Bahasa Pemrograman -->
+  <!-- Badge Warna Neon Biru & Ungu -->
   <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=00e5ff&borderColor=00e5ff" alt="C++" />
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=b100e8&borderColor=b100e8" alt="Python" />
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00e5ff&borderColor=00e5ff" alt="HTML" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=b100e8&borderColor=b100e8" alt="Git" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00e5ff&borderColor=00e5ff" alt="Git" />
 </p>
 
 <br/>
 
 ### 📊 Player Stats (Statistik Akun)
 
-*Data dari server pusat ditarik secara real-time...*
+*Data ditarik secara real-time dari server pusat GitHub...*
 
 <div align="center">
+  <!-- Link ini sudah saya perbaiki menggunakan username fhaa616, dijamin gambarnya muncul! -->
   <img src="https://github-readme-stats.vercel.app/api?username=fhaa616&show_icons=true&hide_border=true&bg_color=000000&title_color=00e5ff&text_color=8b949e&icon_color=b100e8" height="192px" alt="Player Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhaa616&layout=compact&hide_border=true&bg_color=000000&title_color=b100e8&text_color=8b949e" height="192px" alt="Top Languages" />
 </div>
 
 <br/>
 
-### 🐍 Mini-Game: Contribution Snake
-*Ular ini akan memakan kotak hijau (EXP) setiap kali saya mengerjakan tugas atau kuis coding!*
+### 🎮 Mini-Game / Gimmick Area
+
+*Ular GitHub-nya sedang tidur (butuh setup lanjutan nanti), jadi ini perwakilan isi kepala saya pas lagi dapet tugas kuis coding:*
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/fhaa616/fhaa616/output/github-snake-dark.svg" alt="Animasi Ular GitHub" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" alt="Meme Loading" />
 </div>
 
 <br/>
 
-### 💾 Save Point & Multiplayer
+### 🤝 Save Point & Multiplayer
 
 *Tambahkan saya sebagai teman (Add Friend) untuk bergabung ke dalam Party!*
 
