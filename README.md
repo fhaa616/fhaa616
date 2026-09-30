@@ -65,7 +65,7 @@ Hai! 👋 Saya **Awang Alfha Fairuz Amien**, seorang mahasiswa Informatika di In
 
 ### 📈 Player Activity (GitHub Stats)
 
-*Radar aktivitas ngoding (Grafik akan error kalau akun masih 0 commit, biarkan saja nanti muncul sendiri saat ada tugas):*
+*Radar Rajin NGODING (mustahil ada isi):*
 
 <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fhaa616&bg_color=000000&color=00e5ff&line=b100e8&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
