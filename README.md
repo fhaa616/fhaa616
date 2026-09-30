@@ -13,7 +13,7 @@
 
 ### 💫 Player Card & Quest Log (About Me)
 
-Hai! 👋 Saya **Awang Alfha Fairuz Amien**, seorang mahasiswa Informatika di Institut Teknologi Kalimantan (ITK) yang baru menetas. Profil ini ibarat *save file* perjalanan saya dari level pemula. Jujur saja, saya lebih suka rebahan daripada rajin *commit* tugas setiap hari.
+Hai! 👋 Saya **Awang Alfha Fairuz Amien**, seorang mahasiswa Informatika di Institut Teknologi Kalimantan (ITK) yang baru menetas. Profil ini ibarat *save file* perjalanan saya dari level cupuk. Jujur saja, saya lebih suka turu daripada rajin *commit* tugas setiap hari.
 
 - 🎓 **Status:** Mahasiswa Baru (Level 1)
 - ⚔️ **Misi Saat Ini:** Bertahan hidup, lolos dari *syntax error*, dan lulus tepat waktu.
