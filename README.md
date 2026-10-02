@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" alt="Meme Cat Typing" />
   
   <p>
-    <b>Level 1 Student | Calon Anak Ambis</b><br/>
+    <b>Level 1 Student | Calon Anak Jago Ngoding</b><br/>
     Sedang nyari EXP di dunia nyata. 
   </p>
   <hr>
