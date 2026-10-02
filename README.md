@@ -22,7 +22,7 @@ Hai! 👋 Saya **Awang Alfha Fairuz Amien**, seorang mahasiswa Informatika di In
 
 <br/>
 
-### 🤝 Save Point (Connect With Me)
+### 🤝 Save Point 
 
 <p align="left">
   <a href="https://instagram.com/fhaa_turu" target="_blank">
