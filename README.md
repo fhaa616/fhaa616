@@ -68,17 +68,25 @@ Hai! 👋 Saya **Awang Alfha Fairuz Amien**, seorang mahasiswa Informatika di In
 *Radar Rajin NGODING (semoga makin ada isinya):*
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fhaa616&custom_title=Contribution%20Radar&bg_color=000000&color=00e5ff&line=b100e8&point=ffffff&area=true&area_color=b100e8&title_color=00e5ff&hide_border=true&radius=10&height=300" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fhaa616&bg_color=000000&color=00e5ff&line=b100e8&point=ffffff&area=true&area_color=b100e8&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
 <br/>
 
 ### 🧙 Character Sheet (Player Stats & Class)
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fhaa616&show_icons=true&hide_border=false&bg_color=000000&title_color=00e5ff&text_color=ffffff&icon_color=b100e8&border_color=b100e8&count_private=true&custom_title=Player%20Stats" alt="Player Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhaa616&layout=compact&hide_border=false&bg_color=000000&title_color=00e5ff&text_color=ffffff&border_color=b100e8&custom_title=Class%20%26%20Skill%20Tree" alt="Top Languages" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=fhaa616&show_icons=true&bg_color=000000&title_color=00e5ff&text_color=ffffff&icon_color=b100e8&border_color=b100e8&count_private=true&custom_title=Player%20Stats&card_width=420" alt="Player Stats" />
+      </td>
+      <td valign="top" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhaa616&layout=compact&bg_color=000000&title_color=00e5ff&text_color=ffffff&border_color=b100e8&custom_title=Class%20%26%20Skill%20Tree&card_width=420" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br/>
 
@@ -86,9 +94,9 @@ Hai! 👋 Saya **Awang Alfha Fairuz Amien**, seorang mahasiswa Informatika di In
 
 *Trofi terbuka otomatis kalau commit, repo, dan star makin banyak:*
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fhaa616&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" alt="GitHub Trophies" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fhaa616&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" alt="GitHub Trophies" />
+</div>
 
 <br/>
 
@@ -103,5 +111,5 @@ Hai! 👋 Saya **Awang Alfha Fairuz Amien**, seorang mahasiswa Informatika di In
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,24&height=100&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,24&height=90&section=footer" alt="Footer" />
 </div>
