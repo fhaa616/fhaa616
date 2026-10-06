@@ -1,8 +1,8 @@
-name: Generate Space Shooter Animation
+name: Generate Cyberpunk Data Stream
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Berjalan otomatis setiap 12 jam
+    - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -15,15 +15,13 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Create dist directory
-        run: mkdir -p dist
-
-      - name: Generate GitHub Space Shooter
-        uses: czl9707/gh-space-shooter@v2
+      - name: Generate Neon SVG Animation
+        uses: Platane/snk/svg-only@v3
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          output-path: 'dist/github-shooter.gif'
-          no-commit: true
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?color_snake=#b100e8&color_dots=#ebedf0,#81f0fc,#2be1f5,#05c9df,#009eb0
+            dist/github-snake-dark.svg?color_snake=#b100e8&color_dots=#161b22,#063b4d,#096b85,#0b9bbd,#00e5ff
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
