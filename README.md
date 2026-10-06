@@ -60,14 +60,10 @@ Hai! 👋 Saya **Awang Alfha Fairuz Amien**, seorang mahasiswa Informatika di In
 
 ---
 
-### 🔮 Cyberpunk Data Stream (Energy Absorber)
+### 👾 Space Shooter (Galaga Contributions)
 
-*Sistem menyerap EXP setiap kali kamu rajin ngoding:*
+*Level dan darah aliennya makin tebal kalau kamu rajin ngoding!*
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fhaa616/fhaa616/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fhaa616/fhaa616/output/github-snake.svg">
-    <img alt="Data Stream Animation" src="https://raw.githubusercontent.com/fhaa616/fhaa616/output/github-snake.svg" width="100%">
-  </picture>
+  <img alt="GitHub Space Shooter" src="https://raw.githubusercontent.com/fhaa616/fhaa616/output/github-shooter.gif" width="100%">
 </div>
