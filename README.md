@@ -1,10 +1,11 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=System+Booting...;Pemula+Baru+Menetas;Selamat+Datang+Di+Profile+Ku!" alt="Typing SVG" />
+  
   <br/><br/>
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" alt="Meme Cat Typing" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="140" alt="Meme Cat Typing" />
   
   <h3><b>Level 1 Student | Calon Anak Jago Ngoding</b></h3>
-  <p>Sedang nyari EXP di dunia nyata. Jangan diganggu, lagi mode <i>survival</i>. 🛡️️</p>
+  <p>Sedang nyari EXP di dunia nyata. Jangan diganggu, lagi mode <i>survival</i>. 🛡️</p>
 </div>
 
 ---
@@ -52,21 +53,17 @@ Hai! 👋 Saya **Awang Alfha Fairuz Amien**, seorang mahasiswa Informatika di In
 ### ☕ AFK Status (Siklus Mahasiswa)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9lb2VlMXNrOXR5eXBneHEwMWN1eDNxbmZ6OWViczU4d2hxaHhpayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gjsBu8ZUniOODwgPP5/giphy.gif" width="180" alt="Meme Kucing Malas" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9lb2VlMXNrOXR5eXBneHEwMWN1eDNxbmZ6OWViczU4d2hxaHhpayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gjsBu8ZUniOODwgPP5/giphy.gif" width="160" alt="Meme Kucing Malas" />
   <br/><br/>
   <code>Niat Ngoding ➔ Buka Laptop ➔ Buka VsCode ➔ Error ➔ Tidur</code>
 </div>
 
 ---
 
-### 🐍 Dungeon Crawler (Snake Eats Contributions)
+### 👾 Space Shooter (Galaga Contributions)
 
-*Ularnya makin kenyang kalau rajin ngoding:*
+*Level dan darah aliennya makin tebal kalau kamu rajin ngoding!*
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fhaa616/fhaa616/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fhaa616/fhaa616/output/github-snake.svg">
-    <img alt="Snake Contribution Graph" src="https://raw.githubusercontent.com/fhaa616/fhaa616/output/github-snake.svg" width="100%">
-  </picture>
+  <img alt="GitHub Space Shooter" src="https://raw.githubusercontent.com/fhaa616/fhaa616/output/github-shooter.gif" width="100%">
 </div>
