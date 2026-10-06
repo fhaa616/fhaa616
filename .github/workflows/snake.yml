@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Space Shooter Animation
 
 on:
   schedule:
@@ -15,13 +15,15 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+      - name: Create dist directory
+        run: mkdir -p dist
+
+      - name: Generate GitHub Space Shooter
+        uses: czl9707/gh-space-shooter@v2
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          output-path: 'dist/github-shooter.gif'
+          no-commit: true
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
