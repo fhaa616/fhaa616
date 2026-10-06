@@ -49,3 +49,23 @@ Hai! 👋 Saya **Awang Alfha Fairuz Amien**, seorang mahasiswa Informatika di In
 ### 🎮 Save Point (Connect with me)
 
 <div align="center">
+  <a href="https://instagram.com/fhaa_turu" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-fhaa__turu-000000?style=for-the-badge&logo=instagram&logoColor=00e5ff" alt="Instagram" />
+  </a>
+  <a href="https://discord.com" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-alfhaaaaaa-000000?style=for-the-badge&logo=discord&logoColor=b100e8" alt="Discord" />
+  </a>
+  <a href="https://steamcommunity.com/id/Keyshaaaa/" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-Keyshaaaa-000000?style=for-the-badge&logo=steam&logoColor=00e5ff" alt="Steam" />
+  </a>
+</div>
+
+---
+
+### 👾 Space Shooter (Galaga Contributions)
+
+*Level dan darah aliennya makin tebal kalau kamu rajin ngoding!*
+
+<div align="center">
+  <img alt="GitHub Space Shooter" src="https://raw.githubusercontent.com/fhaa616/fhaa616/output/github-shooter.gif" width="100%">
+</div>
