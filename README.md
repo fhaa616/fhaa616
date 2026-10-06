@@ -25,7 +25,7 @@ Hai! 👋 Saya **Awang Alfha Fairuz Amien**, seorang mahasiswa Informatika di In
 
 *Item yang diajarkan di kampus & Titik kumpul kalau mau mabar:*
 
-<div align="left">
+<div align="center">
   <h4>💻 Tech Stack:</h4>
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=b100e8" alt="Python" />
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00e5ff" alt="HTML" />
@@ -60,10 +60,14 @@ Hai! 👋 Saya **Awang Alfha Fairuz Amien**, seorang mahasiswa Informatika di In
 
 ---
 
-### 👾 Space Shooter (Galaga Contributions)
+### 🔮 Cyberpunk Data Stream (Energy Absorber)
 
-*Level dan darah aliennya makin tebal kalau kamu rajin ngoding!*
+*Sistem menyerap EXP setiap kali kamu rajin ngoding:*
 
 <div align="center">
-  <img alt="GitHub Space Shooter" src="https://raw.githubusercontent.com/fhaa616/fhaa616/output/github-shooter.gif" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fhaa616/fhaa616/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fhaa616/fhaa616/output/github-snake.svg">
+    <img alt="Data Stream Animation" src="https://raw.githubusercontent.com/fhaa616/fhaa616/output/github-snake.svg" width="100%">
+  </picture>
 </div>
