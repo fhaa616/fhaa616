@@ -14,7 +14,7 @@
 
 Hai! 👋 Saya **Awang Alfha Fairuz Amien**, seorang mahasiswa Informatika di Institut Teknologi Kalimantan (ITK) yang baru menetas. Profil ini ibarat *save file* perjalanan saya dari level *cupu*. Jujur saja, saya lebih suka *turu* daripada rajin *commit* tugas setiap hari.
 
-> ⚠️️ **Current Status:** Mahasiswa Baru (Level 1)
+> ⚠️ **Current Status:** Mahasiswa Baru (Level 1)
 > ⚔️ **Main Quest:** Bertahan hidup, lolos dari *syntax error*, dan lulus tepat waktu.
 > 🧪 **Skill In Progress:** Ilmu bertahan dari rasa malas dan meminimalisir kepanikan saat *deadline*.
 > 🏆 **Achievement Locked:** Menjadi *Developer* sungguhan tanpa harus keseringan begadang.
@@ -58,14 +58,4 @@ Hai! 👋 Saya **Awang Alfha Fairuz Amien**, seorang mahasiswa Informatika di In
   <a href="https://steamcommunity.com/id/Keyshaaaa/" target="_blank">
     <img src="https://img.shields.io/badge/Steam-Keyshaaaa-000000?style=for-the-badge&logo=steam&logoColor=00e5ff" alt="Steam" />
   </a>
-</div>
-
----
-
-### 👾 Space Shooter (Galaga Contributions)
-
-*Level dan darah aliennya makin tebal kalau kamu rajin ngoding!*
-
-<div align="center">
-  <img alt="GitHub Space Shooter" src="https://raw.githubusercontent.com/fhaa616/fhaa616/output/github-shooter.gif" width="100%">
 </div>
