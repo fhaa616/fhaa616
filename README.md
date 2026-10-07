@@ -56,6 +56,6 @@ Hai! 👋 Saya **Awang Alfha Fairuz Amien**, seorang mahasiswa Informatika di In
     <img src="https://img.shields.io/badge/Discord-alfhaaaaaa-000000?style=for-the-badge&logo=discord&logoColor=b100e8" alt="Discord" />
   </a>
   <a href="https://steamcommunity.com/id/Keyshaaaa/" target="_blank">
-    <img src="https://img.shields.io/badge/Steam-Keyshaaaa-000000?style=for-the-badge&logo=steam&logoColor=00e5ff" alt="Steam" />
+    <img src="https://img.shields.io/badge/Steam-fhaa616-000000?style=for-the-badge&logo=steam&logoColor=00e5ff" alt="Steam" />
   </a>
 </div>
